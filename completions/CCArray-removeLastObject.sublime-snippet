@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[removeLastObject(${1:true})]]></content>
+    <tabTrigger>removeLastObject</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCArray</description>
+</snippet>

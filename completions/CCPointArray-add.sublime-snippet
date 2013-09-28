@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[add(${1:CCPoint})]]></content>
+    <tabTrigger>add</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCPointArray</description>
+</snippet>

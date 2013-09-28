@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[setDisplayFrame(${1:pNewFrame})]]></content>
+    <tabTrigger>setDisplayFrame</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCSprite</description>
+</snippet>

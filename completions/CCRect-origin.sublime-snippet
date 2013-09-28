@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[origin]]></content>
+    <tabTrigger>origin</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCRect</description>
+</snippet>
