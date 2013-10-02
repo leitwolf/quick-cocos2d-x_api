@@ -3,5 +3,5 @@
     <content><![CDATA[new(${1:...})]]></content>
     <tabTrigger>new</tabTrigger>
     <scope>source.lua</scope>
-    <description>CCNode</description>
+    <description>class</description>
 </snippet>
