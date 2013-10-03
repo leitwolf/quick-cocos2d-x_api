@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[kCCNetworkStatusNotReachable]]></content>
+    <tabTrigger>kCCNetworkStatusNotReachable</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNetwork</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[kCCHTTPRequestStateCompleted]]></content>
+    <tabTrigger>kCCHTTPRequestStateCompleted</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCHTTPRequest</description>
+</snippet>

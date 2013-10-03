@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[kCCNetworkStatusReachableViaWWAN]]></content>
+    <tabTrigger>kCCNetworkStatusReachableViaWWAN</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCNetwork</description>
+</snippet>

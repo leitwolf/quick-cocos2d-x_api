@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[kCCHTTPRequestStateCancelled]]></content>
+    <tabTrigger>kCCHTTPRequestStateCancelled</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCHTTPRequest</description>
+</snippet>

@@ -1,0 +1,7 @@
+
+<snippet>
+    <content><![CDATA[kCCHTTPRequestMethodGET]]></content>
+    <tabTrigger>kCCHTTPRequestMethodGET</tabTrigger>
+    <scope>source.lua</scope>
+    <description>CCHTTPRequest</description>
+</snippet>
