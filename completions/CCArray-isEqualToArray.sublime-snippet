@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[isEqualToArray(${1:CCArray*pOtherArray})]]></content>
-    <tabTrigger>isEqualToArray</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

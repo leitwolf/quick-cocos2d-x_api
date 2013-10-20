@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[CCFileUtils:sharedFileUtils()]]></content>
-    <tabTrigger>CCFileUtils:sharedFileUtils</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[playAnimationForever(${1:animation}, ${2:delay})]]></content>
-    <tabTrigger>playAnimationForever</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSprite</description>
-</snippet>

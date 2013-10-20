@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[defaultStaticBody(${1:world})]]></content>
-    <tabTrigger>defaultStaticBody</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[CCPhysicsDebugNode]]></content>
-    <tabTrigger>CCPhysicsDebugNode</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsDebugNode</description>
-</snippet>

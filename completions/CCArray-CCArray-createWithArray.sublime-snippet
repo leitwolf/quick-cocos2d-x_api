@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[CCArray:createWithArray(${1:otherArray})]]></content>
-    <tabTrigger>CCArray:createWithArray</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

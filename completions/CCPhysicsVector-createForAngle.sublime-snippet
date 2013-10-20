@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[createForAngle(${1:angle})]]></content>
-    <tabTrigger>createForAngle</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

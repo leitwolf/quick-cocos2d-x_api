@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[kCCHTTPRequestAcceptEncodingGzip]]></content>
-    <tabTrigger>kCCHTTPRequestAcceptEncodingGzip</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[cross(${1:other})]]></content>
-    <tabTrigger>cross</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

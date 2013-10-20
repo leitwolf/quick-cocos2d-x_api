@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[size]]></content>
-    <tabTrigger>size</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRect</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[y]]></content>
-    <tabTrigger>y</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPoint</description>
-</snippet>

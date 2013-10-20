@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[addObject(${1:CCObject*object})]]></content>
-    <tabTrigger>addObject</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCArray</description>
-</snippet>

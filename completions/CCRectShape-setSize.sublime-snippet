@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setSize(${1:size})]]></content>
-    <tabTrigger>setSize</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCRectShape</description>
-</snippet>

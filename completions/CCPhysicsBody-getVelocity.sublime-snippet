@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[getVelocity(${1:velocityX=0}, ${2:velocityY=0})]]></content>
-    <tabTrigger>getVelocity</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

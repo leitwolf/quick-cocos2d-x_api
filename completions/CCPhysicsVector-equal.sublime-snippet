@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[equal(${1:other})]]></content>
-    <tabTrigger>equal</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

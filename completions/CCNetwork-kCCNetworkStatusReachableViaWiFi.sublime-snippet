@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[kCCNetworkStatusReachableViaWiFi]]></content>
-    <tabTrigger>kCCNetworkStatusReachableViaWiFi</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNetwork</description>
-</snippet>

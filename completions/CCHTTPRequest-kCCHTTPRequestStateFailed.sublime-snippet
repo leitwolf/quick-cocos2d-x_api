@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[kCCHTTPRequestStateFailed]]></content>
-    <tabTrigger>kCCHTTPRequestStateFailed</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

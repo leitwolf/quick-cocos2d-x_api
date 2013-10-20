@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setNodeEventEnabled(${1:enabled}, ${2:handler})]]></content>
-    <tabTrigger>setNodeEventEnabled</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

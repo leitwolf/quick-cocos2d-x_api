@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[CCPhysicsVector]]></content>
-    <tabTrigger>CCPhysicsVector</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setElasticity(${1:elasticity})]]></content>
-    <tabTrigger>setElasticity</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsShape</description>
-</snippet>

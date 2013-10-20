@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[replace(${1:CCPoint}, ${2:index})]]></content>
-    <tabTrigger>replace</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPointArray</description>
-</snippet>

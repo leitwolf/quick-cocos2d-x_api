@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[CCPhysicsCollisionEvent]]></content>
-    <tabTrigger>CCPhysicsCollisionEvent</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsCollisionEvent</description>
-</snippet>

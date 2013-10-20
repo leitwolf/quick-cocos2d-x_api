@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[addSearchPath(${1:path})]]></content>
-    <tabTrigger>addSearchPath</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

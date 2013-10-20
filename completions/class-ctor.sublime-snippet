@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[ctor()]]></content>
-    <tabTrigger>ctor</tabTrigger>
-    <scope>source.lua</scope>
-    <description>class</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setCollisionGroup(${1:group})]]></content>
-    <tabTrigger>setCollisionGroup</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsShape</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[registerScriptKeypadHandler(${1:nHandler})]]></content>
-    <tabTrigger>registerScriptKeypadHandler</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayer</description>
-</snippet>

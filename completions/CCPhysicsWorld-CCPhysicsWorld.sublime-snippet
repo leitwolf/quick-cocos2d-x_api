@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[CCPhysicsWorld]]></content>
-    <tabTrigger>CCPhysicsWorld</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

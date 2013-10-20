@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[getPosition()]]></content>
-    <tabTrigger>getPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[kCCTouchesAllAtOnce,]]></content>
-    <tabTrigger>kCCTouchesAllAtOnce,</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayer</description>
-</snippet>

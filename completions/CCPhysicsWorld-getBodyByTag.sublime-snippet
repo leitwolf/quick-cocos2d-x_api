@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[getBodyByTag(${1:tag})]]></content>
-    <tabTrigger>getBodyByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

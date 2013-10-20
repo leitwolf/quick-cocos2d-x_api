@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[createForRotation(${1:degrees})]]></content>
-    <tabTrigger>createForRotation</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

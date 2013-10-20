@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[dot(${1:other})]]></content>
-    <tabTrigger>dot</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsVector</description>
-</snippet>

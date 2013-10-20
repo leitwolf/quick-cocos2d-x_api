@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[super]]></content>
-    <tabTrigger>super</tabTrigger>
-    <scope>source.lua</scope>
-    <description>class</description>
-</snippet>

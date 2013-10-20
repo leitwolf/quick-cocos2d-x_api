@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[fullPathForFilename(${1:pszFileName})]]></content>
-    <tabTrigger>fullPathForFilename</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[addSegmentShape(${1:lowerLeft}, ${2:lowerRight}, ${3:thickness})]]></content>
-    <tabTrigger>addSegmentShape</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

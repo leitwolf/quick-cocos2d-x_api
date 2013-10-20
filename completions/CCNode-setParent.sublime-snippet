@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setParent(${1:parent})]]></content>
-    <tabTrigger>setParent</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

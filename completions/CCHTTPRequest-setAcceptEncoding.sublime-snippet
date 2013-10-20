@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setAcceptEncoding(${1:acceptEncoding})]]></content>
-    <tabTrigger>setAcceptEncoding</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

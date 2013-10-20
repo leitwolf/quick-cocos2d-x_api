@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setAngle(${1:angle})]]></content>
-    <tabTrigger>setAngle</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCCircleShape</description>
-</snippet>

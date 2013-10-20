@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[applyImpulse(${1:orce}, ${2:offsetX=0}, ${3:offsetY=0})]]></content>
-    <tabTrigger>applyImpulse</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

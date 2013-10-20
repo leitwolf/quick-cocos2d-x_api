@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[create()]]></content>
-    <tabTrigger>create</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[createBoxBody(${1:mass}, ${2:width}, ${3:height})]]></content>
-    <tabTrigger>createBoxBody</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

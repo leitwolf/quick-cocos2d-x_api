@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[CCLayerColor:create()]]></content>
-    <tabTrigger>CCLayerColor:create</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCLayer</description>
-</snippet>

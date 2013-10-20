@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[createCircleBody(${1:mass}, ${2:radius}, ${3:offsetX=0}, ${4:offsetY=0})]]></content>
-    <tabTrigger>createCircleBody</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsWorld</description>
-</snippet>

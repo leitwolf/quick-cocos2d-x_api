@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[isFileExist(${1:strFilePath})]]></content>
-    <tabTrigger>isFileExist</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCFileUtils</description>
-</snippet>

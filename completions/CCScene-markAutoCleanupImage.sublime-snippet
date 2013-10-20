@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[markAutoCleanupImage(${1:imageName})]]></content>
-    <tabTrigger>markAutoCleanupImage</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCScene</description>
-</snippet>

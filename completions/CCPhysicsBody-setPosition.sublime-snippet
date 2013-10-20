@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setPosition(${1:pos})]]></content>
-    <tabTrigger>setPosition</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCPhysicsBody</description>
-</snippet>

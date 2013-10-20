@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setLineStipple(${1:pattern})]]></content>
-    <tabTrigger>setLineStipple</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCShapeNode</description>
-</snippet>

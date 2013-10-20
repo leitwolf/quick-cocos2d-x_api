@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[setTag(${1:nTag})]]></content>
-    <tabTrigger>setTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>

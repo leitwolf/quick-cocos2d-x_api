@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[kCCHTTPRequestAcceptEncodingIdentity]]></content>
-    <tabTrigger>kCCHTTPRequestAcceptEncodingIdentity</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCHTTPRequest</description>
-</snippet>

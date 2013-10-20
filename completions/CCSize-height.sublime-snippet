@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[height]]></content>
-    <tabTrigger>height</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCSize</description>
-</snippet>

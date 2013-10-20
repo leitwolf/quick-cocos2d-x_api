@@ -1,7 +1,0 @@
-
-<snippet>
-    <content><![CDATA[removeChildByTag(${1:tag}, ${2:cleanup})]]></content>
-    <tabTrigger>removeChildByTag</tabTrigger>
-    <scope>source.lua</scope>
-    <description>CCNode</description>
-</snippet>
